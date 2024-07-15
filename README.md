@@ -1,4 +1,3 @@
-# Devoted to Use Data Science for Human Well_Being 
 ## 🙏 Namaskar, I'm Malhar... 
 
 <!---
